@@ -2,4 +2,4 @@
 
 
 
-The details can be found on <www.alanshawn.com/tech/2019/07/17/spherical-projection.html>.
+The details can be found on my [blog post](www.alanshawn.com/tech/2019/07/17/spherical-projection.html).
